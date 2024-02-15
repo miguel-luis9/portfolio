@@ -28,9 +28,9 @@
 - Exported project to Github to share among classmates
 - Implemented APIs to allow the functions of the Twitter app
 
-# Leadership & Professional Development                      March 23 - Present
+# Leadership & Professional Development                     
 
-### Career Prep Fellow for Management Leadership for Tomorrow
+### Career Prep Fellow for Management Leadership for Tomorrow                March 23 - Present
 - Responsible for promoting academic development through workshops and study sessions
 - Organize mentorship pairings to develop collaboration skills within members
 - Overview study room twice a week for eight hours to create a safe space for members to study
