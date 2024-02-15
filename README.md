@@ -13,6 +13,8 @@
 - Practiced Agile methodology to deliver two projects a week before their expected deadline
 - Collaborated using GitHub to branch and promote features
 
+  ![SWE Interns Town Hall](/assets/img/2023_Chevron_Intern_Town_Hall_8574.jpg)
+
 ### Early Quantum Computing Intern @ QxQ
 - Collaborated with 13 undergraduates implementing quantum algorithms
 - Presented applications of algorithms to peers and professionals from 6 partner companies
