@@ -1,10 +1,13 @@
-# 3rd Year Undergrad @ UCSB
+# 3rd Year CS @ UCSB
+
 # Education
   BS in Computer Science
+  
 # Skills
 
 # Work Experience
-### SWE Intern @ Chevron
+
+## SWE Intern @ Chevron
 - Automated testing for APIS, utilizing Postman to remove unnecessary APIs that improves security and reduces complexity by 10 and 15, percent respectively
 - Developed newman tests for Azure devops pipeline to ensure proper implementation and results of programs
 - Practiced Agile methodology to deliver two projects a week before their expected deadline
@@ -17,6 +20,7 @@
 - Collaborated with Google Quantum AI to advance my quantum computing knowledge
 
 # Projects
+
 ### Mock Twitter App
 - Created a mock Twitter app on Xcode using Swift which replicates features such as Tweet, Like, and Retweet
 - Exported project to Github to share among classmates
