@@ -28,6 +28,21 @@
 - Exported project to Github to share among classmates
 - Implemented APIs to allow the functions of the Twitter app
 
-# Leadership & Professional Development
+# Leadership & Professional Development                      March 23 - Present
+
+### Career Prep Fellow for Management Leadership for Tomorrow
+- Responsible for promoting academic development through workshops and study sessions
+- Organize mentorship pairings to develop collaboration skills within members
+- Overview study room twice a week for eight hours to create a safe space for members to study
+
+### Academic Chair for SHPE UC Santa Barbara Los Ingenieros
+- Responsible for promoting academic development through workshops and study sessions
+- Organize mentorship pairings to develop collaboration skills within members
+- Overview study room twice a week for eight hours to create a safe space for members to study
+
+### Google Summit Participant
+- Google Summit for Latinx Students interested in pursuing a career as a Software Engineer
+- One of 120 participants selected from a pool of 880 applicants
+- Developed connections with students across the country through
 
 # Volunteering
