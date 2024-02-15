@@ -7,7 +7,7 @@
 
 # Work Experience
 
-## SWE Intern @ Chevron
+### SWE Intern @ Chevron
 - Automated testing for APIS, utilizing Postman to remove unnecessary APIs that improves security and reduces complexity by 10 and 15, percent respectively
 - Developed newman tests for Azure devops pipeline to ensure proper implementation and results of programs
 - Practiced Agile methodology to deliver two projects a week before their expected deadline
