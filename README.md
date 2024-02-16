@@ -30,7 +30,7 @@
 
 ## Leadership & Professional Development                     
 
-#### Career Prep Fellow for Management Leadership for Tomorrow &emsp;(4 x &nbsp);   March 2023 - Present
+#### Career Prep Fellow for Management Leadership for Tomorrow &nbsp;   March 2023 - Present
 - Responsible for promoting academic development through workshops and study sessions
 - Organize mentorship pairings to develop collaboration skills within members
 - Overview study room twice a week for eight hours to create a safe space for members to study
