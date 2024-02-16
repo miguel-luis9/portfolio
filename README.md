@@ -56,3 +56,15 @@
 - Developed connections with students across the country through
 
 ## Volunteering
+
+#### Elementary School Science Nights
+- Spent two hours volunteering for local elementary schools hosting science nights for their students and parents
+- Lead a group of 2-5 SHPE members at 3 different science nights
+- Collaborated with over 20 community and university organizations to provide science nights for over 200 students
+and parents
+- Presented a non-Newtonan fluid(Oobleck) to students and demonstrated its capabalities of both a solid and a liquid
+
+#### Food Bank Volunteer
+- Volunteered at a food bank for 3 hours a week in the city of Concord
+- Informed of this opportunity through Chevron’s partnership with the Contra Costa Food Bank
+- Helped package food for Contra Costa and Solano residents that would eventually serve 1 in 4 residents
