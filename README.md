@@ -33,6 +33,8 @@
 - Exported project to Github to share among classmates
 - Implemented APIs to allow the functions of the Twitter app
 
+![Mock Insta App](assets/img/Parstagram2.gif)
+
 ## Leadership & Professional Development                     
 
 #### Career Prep Fellow for Management Leadership for Tomorrow 
