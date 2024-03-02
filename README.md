@@ -27,17 +27,30 @@
 
 ## Projects
 
-#### Mock Twitter App
+#### Mock Instagram App
 ##### October 2021
-- Created a mock Twitter app on Xcode using Swift which replicates features such as Tweet, Like, and Retweet
+- Created a mock Instagram app on Xcode using Swift which replicates features such as Post, Comment, and Scroll Feed
 - Exported project to Github to share among classmates
-- Implemented APIs to allow the functions of the Twitter app
+- Implemented APIs to allow the functions of the Instagram app
+
+#### Weather App
+##### February 2024
+- Created weather app using Swift on Xcode
+- Implemented open weather API to forecast weather for next five days
+- Changes background display depending on time of day
+
+#### War Card Game App
+##### February 2024
+- Created War card game using Swift on Xcode
+- Compares card values and changes player/CPU score based on comparison
+- Changes card values displayed upon click of "Deal" button
+
 
 ![Mock Insta App](assets/img/Parstagram.gif)
 
-## Leadership & Professional Development                     
+## Leadership & Professional Development
 
-#### Career Prep Fellow for Management Leadership for Tomorrow 
+#### Career Prep Fellow for Management Leadership for Tomorrow
 ##### March 2023 - Present
 - Responsible for promoting academic development through workshops and study sessions
 - Organize mentorship pairings to develop collaboration skills within members
