@@ -33,6 +33,8 @@
 - Exported project to Github to share among classmates
 - Implemented APIs to allow the functions of the Instagram app
 
+![Mock Insta App](assets/img/Parstagram.gif)
+
 #### Weather App
 ##### February 2024
 - Created weather app using Swift on Xcode
@@ -44,9 +46,6 @@
 - Created War card game using Swift on Xcode
 - Compares card values and changes player/CPU score based on comparison
 - Changes card values displayed upon click of "Deal" button
-
-
-![Mock Insta App](assets/img/Parstagram.gif)
 
 ## Leadership & Professional Development
 
