@@ -4,7 +4,7 @@
   BS in Computer Science, &nbsp; &nbsp; &nbsp; Expected Graduation: June 2025
   
 ## Skills
-#### Programming Languages: C++, Python, JavaScript, Git, Vim, Linux, HTML, CSS, Swift
+#### Programming Languages: C++, Python, Swift, JavaScript, Git, Vim, Linux, HTML, CSS
 #### Software/Tools:  Github, Azure DevOps, Xcode, VSCode, Postman
 
 ## Work Experience
